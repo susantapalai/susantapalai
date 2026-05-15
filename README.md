@@ -1,4 +1,7 @@
 # Hi, I'm Susanta Sekhar Palai 👋
+![Repo Size](https://img.shields.io/github/repo-size/susantapalai/nexabot-core)
+![Last Commit](https://img.shields.io/github/last-commit/susantapalai/nexabot-core)
+
 
 🎓 MCA Graduate | 🤖 AI/ML Enthusiast | ☕ Java Spring Boot Developer
 
