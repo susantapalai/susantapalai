@@ -1,100 +1,199 @@
-# Hi, I'm Susanta Sekhar Palai 👋
-![Repo Size](https://img.shields.io/github/repo-size/susantapalai/nexabot-core)
-![Last Commit](https://img.shields.io/github/last-commit/susantapalai/nexabot-core)
+<div align="center">
 
+# Hi 👋 I'm Susanta Sekhar Palai
 
-🎓 MCA Graduate | 🤖 AI/ML Enthusiast | ☕ Java Spring Boot Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=susantapalai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-## 🚀 About Me
-- 🔭 Currently building AI-powered applications using Python + Java
-- 🌱 Learning Machine Learning, Deep Learning & Spring AI
-- 💡 I love combining ML models with Spring Boot backends
-- 📫 Reach me: [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/susanta-sekhar-253843237))
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-**AI/ML**
+```java
+public class Developer {
 
+    String name = "Susanta Sekhar Palai";
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    String role = "Java Backend Developer";
 
+    String[] languages = {
+        "Java",
+        "SQL"
+    };
 
+    String[] backend = {
+        "Spring Boot",
+        "Spring Security",
+        "Spring Data JPA",
+        "Hibernate"
+    };
 
+    String[] database = {
+        "PostgreSQL",
+        "MySQL"
+    };
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+    String[] tools = {
+        "Git",
+        "GitHub",
+        "Docker",
+        "Maven",
+        "Postman",
+        "IntelliJ IDEA"
+    };
 
-
-
-
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-
-
-**Backend**
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
-
-
-**Tools**
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
-
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-
+    String currentFocus =
+        "Building scalable Spring Boot Applications";
+}
+```
 
 ---
 
-## 📂 Projects
+# 🚀 Tech Stack
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏠 House Price Prediction | ML model to predict housing prices | Python, Scikit-learn, Pandas |
-| 💬 Sentiment Analysis | Classify product review sentiments | Python, NLP, TF-IDF |
-| 📄 Resume Screener | Auto-rank resumes using ML + Java API | Python, Spring Boot, FastAPI |
-| 🤖 AI Chatbot | Customer support bot using LLM | Spring Boot, Spring AI |
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-
-
-![Susanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=susantapalai&show_icons=true&theme=tokyonight)
-
-
+* Spring Security
+* JWT Authentication
+* OAuth2
+* Microservices
+* Docker
+* Redis
+* Kafka
+* AWS
 
 ---
 
-## 🤝 Connect With Me
+# 📌 Featured Projects
 
-[
+## 🚀 Job Application Tracker API
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+✔ Spring Boot
 
-](https://www.linkedin.com/in/susanta-sekhar-253843237)
-[
+✔ Spring Security
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+✔ JWT Authentication
 
-]([[https://github.com/susantapalai/susantapalai](https://github.com/susantapalai/susantapalai)])
+✔ PostgreSQL
+
+✔ Docker
+
+✔ Swagger
+
+✔ JUnit
+
+---
+
+## 🤖 AI Task Manager
+
+✔ Java
+
+✔ Spring Boot
+
+✔ AI Integration
+
+✔ REST APIs
+
+✔ PostgreSQL
+
+---
+
+## 🎓 Student Management System
+
+✔ CRUD Operations
+
+✔ Spring Data JPA
+
+✔ Layered Architecture
+
+✔ PostgreSQL
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=susantapalai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=susantapalai&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susantapalai&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=susantapalai&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy designing clean backend architectures, optimizing APIs, and continuously improving my Java development skills.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/susanta-palai">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:susantasekhar1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/susantapalai">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3FB950&center=true&vCenter=true&width=650&lines=Happy+Coding!;Keep+Learning.;Build+Something+Awesome." />
+
+</div>
